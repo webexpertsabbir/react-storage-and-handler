@@ -1,0 +1,32 @@
+[
+    {
+      "_id": "632f29ef9eb9ef30f1bbe47c",
+      "name": "Anastasia Rodriquez",
+      "address": "288 Lafayette Walk, Blanford, District Of Columbia, 8212",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "632f29eff77f7b0b062e6da7",
+      "name": "Brennan Harmon",
+      "address": "503 Hinckley Place, Wedgewood, Georgia, 8234",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "632f29efc6e15b736f295e4c",
+      "name": "Davis Chang",
+      "address": "509 President Street, Greenwich, Northern Mariana Islands, 2644",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "632f29efb3d7c9f99d71fe20",
+      "name": "Robbie Glass",
+      "address": "175 Pierrepont Street, Colton, Connecticut, 1433",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "632f29efacf32c31e9ac2206",
+      "name": "Rosetta Mcdaniel",
+      "address": "975 Kansas Place, Topanga, South Dakota, 885",
+      "favoriteFruit": "apple"
+    }
+]
